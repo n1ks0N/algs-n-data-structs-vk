@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+*.zip
+*.tar.gz
+vk_lsvd_500k/
+experiments/
+*.pt
+*.npz
+*.log
+.DS_Store
